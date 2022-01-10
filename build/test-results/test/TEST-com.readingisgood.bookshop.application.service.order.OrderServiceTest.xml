@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.readingisgood.bookshop.application.service.order.OrderServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-10T18:21:22" hostname="C02D71D8MD6M" time="0.73">
+  <properties/>
+  <testcase name="getByIds_WhenCalled_ShouldReturnOrders()" classname="com.readingisgood.bookshop.application.service.order.OrderServiceTest" time="0.73"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
